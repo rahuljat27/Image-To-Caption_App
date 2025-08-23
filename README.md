@@ -1,4 +1,4 @@
-# Image Captioning App
+# PhotoLingo – Image to Caption System
 
 This project is a web application that generates descriptive captions for uploaded images. It's built with Streamlit and uses a custom-built Vision Encoder-Decoder model to understand the content of an image and generate a coherent, natural-language caption.
 
