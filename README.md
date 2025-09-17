@@ -2,7 +2,7 @@
 
 This project is a web application that generates descriptive captions for uploaded images. It's built with Streamlit and uses a custom-built Vision Encoder-Decoder model to understand the content of an image and generate a coherent, natural-language caption.
 
-The model was trained on the Flickr8k dataset, a widely-used benchmark for image captioning tasks.
+The model was trained on the coco dataset, a widely-used benchmark for image captioning tasks.
 
 ---
 
